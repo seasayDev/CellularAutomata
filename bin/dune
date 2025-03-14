@@ -1,4 +1,4 @@
 (executable
- (public_name CellularAutomata)
+ (public_name CellularAutomata)  
  (name main)
- (libraries CellularAutomata))
+ (libraries CellularAutomata))   
